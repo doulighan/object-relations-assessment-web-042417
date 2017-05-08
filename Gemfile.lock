@@ -18,8 +18,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  pry
   pry-byebug
   require_all
 
 BUNDLED WITH
-   1.10.6
+   1.14.6
